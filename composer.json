@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "sca1235/collections": "~1.1"
+        "sca1235/collections": "dev-master"
     },
     "autoload": {
         "psr-4": {
